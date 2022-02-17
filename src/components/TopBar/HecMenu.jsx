@@ -101,7 +101,7 @@ function HecMenu() {
                   >
                     <Button size="large" variant="contained" color="secondary" fullWidth>
                       <Typography align="left">
-                        Buy on FlareXSwap <SvgIcon component={ArrowUpIcon} htmlColor="#A3A3A3" />
+                        Buy on FlareX <SvgIcon component={ArrowUpIcon} htmlColor="#A3A3A3" />
                       </Typography>
                     </Button>
                   </Link>

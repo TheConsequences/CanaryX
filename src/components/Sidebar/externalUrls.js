@@ -9,13 +9,13 @@ import { AccountBalanceOutlined, MonetizationOnOutlined } from "@material-ui/ico
 
 const externalUrls = [
   {
-    title: "Buy on FlareXSwap",
+    title: "Buy on FlareX",
     url: "https://xfx.flr.finance/swap?inputCurrency=0x612C0FAd248FF002E1cD0d5E09838b6F78CC15B8&outputCurrency=0x70Ad7172EF0b131A1428D0c1F66457EB041f2176",
     icon: <SvgIcon viewBox="0 0 64 64" color="primary" component={XfxSwapIcon} />,
   },
   // {
-  //   title: "Buy on SpiritSwap",
-  //   url: "https://swap.spiritswap.finance/#/exchange/swap/0x5c4fdfc5233f935f20d2adba572f770c2e377ab0",
+  //   title: "",
+  //   url: "https://s\",
   //   icon: <SvgIcon viewBox="0 0 155 172" color="primary" component={SpiritSwapIcon} />,
   // },
   // {
