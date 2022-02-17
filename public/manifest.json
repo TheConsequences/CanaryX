@@ -1,8 +1,8 @@
 {
-  "short_name": "HectorDAO",
+  "short_name": "CanaryAlphaDAO",
   "start_url": ".",
   "homepage": "./",
-  "name": "HectorDAO",
+  "name": "CanaryAlphaDAO",
   "launch_path": "/public/index.html",
   "icons": [
     {
