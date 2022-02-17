@@ -51,7 +51,7 @@ function NavContent() {
       <Box className="dapp-sidebar-inner" display="flex" justifyContent="space-between" flexDirection="column">
         <div className="dapp-menu-top">
           <Box className="branding-header">
-            <Link href="https://canaryalpha.xyz" target="_blank">
+            <Link href="https://www.canaryx.xyz" target="_blank">
               <SvgIcon
                 color="primary"
                 component={CNYAIcon}
