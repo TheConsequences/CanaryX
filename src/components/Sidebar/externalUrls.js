@@ -9,7 +9,7 @@ import { AccountBalanceOutlined, MonetizationOnOutlined } from "@material-ui/ico
 
 const externalUrls = [
   {
-    title: "Buy on ",
+    title: "Buy on FlareX",
     url: "https://xfx.flr.finance/swap?inputCurrency=0x612C0FAd248FF002E1cD0d5E09838b6F78CC15B8&outputCurrency=0x70Ad7172EF0b131A1428D0c1F66457EB041f2176",
     icon: <SvgIcon viewBox="0 0 64 64" color="primary" component={XfxSwapIcon} />,
   },
