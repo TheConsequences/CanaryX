@@ -198,11 +198,11 @@ function Calculator() {
                                 </Box>
                                 <Box className="calculator-user-data">
                                     <Box className="data-row">
-                                        <Typography>Your initial investment</Typography>
+                                        <Typography>Your initial balance </Typography>
                                         <Typography>{isAppLoading ? <Skeleton width="80px" /> : <>${initialInvestment}</>}</Typography>
                                     </Box>
                                     <Box className="data-row">
-                                        <Typography>Current wealth</Typography>
+                                        <Typography>Current balance </Typography>
                                         <Typography>{isAppLoading ? <Skeleton width="80px" /> : <>${calcCurrentWealth()}</>}</Typography>
                                     </Box>
                                     <Box className="data-row">
