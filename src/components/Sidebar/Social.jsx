@@ -16,7 +16,7 @@ export default function Social() {
         <SvgIcon color="primary" component={Telegram} />
       </Link>
 
-      <Link href="https://medium.com/" target="_blank">
+      <Link href="https://medium.com/@canaryxnetwork/canaryx-ama-responses-b7aeede76bd9" target="_blank">
         <SvgIcon color="primary" component={Medium} />
       </Link>
 
